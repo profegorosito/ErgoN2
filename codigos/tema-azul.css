@@ -1,0 +1,18 @@
+@charset "utf-8";
+
+body {
+	background-image: linear-gradient(45deg, black, darkblue)
+}
+
+article {
+	background-color: rgba(55,173,192,0.60) ;
+	color: white ;
+}
+
+h1, h2, h3, h4, h5 {
+	text-shadow: 2px 2px 5px lightblue ;
+	border-bottom: 2px solid white ;
+	box-shadow: 0 4px 4px lightblue ;
+	background: rgba(88,97,106,0.66);
+	
+}
